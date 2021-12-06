@@ -1,1 +1,1 @@
-# Notes for coding (to help find imformation) and premade code.
+# Notes for coding (to help find information) and premade code.
